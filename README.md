@@ -2,7 +2,7 @@
 
 **Course:** BHI 507 - Biomedical and Health Informatics  
 **Institution:** SUNY Oswego  
-**Student:** Alice  
+**Student:** Alice Akyene
 **Semester:** Spring 2025
 
 ---
@@ -18,7 +18,7 @@ A secure, HIPAA-compliant prescription reminder application designed to help pat
 - 💊 **Drug Interaction Checker** - Real-time safety alerts
 - ⏰ **Medication Reminders** - Customizable notification system
 - 👥 **Role-Based Access Control** - Patient, Caregiver, Provider, Pharmacist roles
-- 🌍 **Multi-Language Support** - 10+ languages including RTL support
+- 🌍 **Multi-Language Support** - 10+ languages support
 - 📊 **HIPAA Compliance** - Comprehensive audit logging
 
 ## 📂 Files in This Repository
@@ -31,8 +31,6 @@ A secure, HIPAA-compliant prescription reminder application designed to help pat
 
 ### Requirements
 - Python 3.8+
-- Jupyter Notebook
-- Required packages: `cryptography`
 
 ### Installation
 
@@ -42,15 +40,6 @@ git clone https://github.com/YOUR_USERNAME/secure-prescription-reminder-app.git
 cd secure-prescription-reminder-app
 ```
 
-2. Install dependencies:
-```bash
-pip install cryptography
-```
-
-3. Open Jupyter Notebook:
-```bash
-jupyter notebook
-```
 
 4. Open either:
    - `Secure_Prescription_App_SIMPLE.ipynb` (for learning)
@@ -109,14 +98,6 @@ Please refer to the comprehensive spreadsheet: `Secure_Prescription_Reminder_App
 - Wearable device sync
 - AI-powered adherence predictions
 - Telemedicine integration
-
-## 📄 License
-
-This project is for educational purposes as part of BHI 507 coursework.
-
-## 📧 Contact
-
-For questions about this project, please contact via SUNY Oswego email.
 
 ---
 
